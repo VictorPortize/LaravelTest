@@ -1,0 +1,250 @@
+[
+    {
+        "version": "11.1.1",
+        "id": "Aatrox",
+        "key": "266",
+        "name": "Aatrox",
+        "title": "the Darkin Blade",
+        "blurb": "Once honored defenders of Shurima against the Void, Aatrox and his brethren would eventually become an even greater threat to Runeterra, and were defeated only by cunning mortal sorcery. But after centuries of imprisonment, Aatrox was the first to find...",
+        "info": {
+            "attack": 8,
+            "defense": 4,
+            "magic": 3,
+            "difficulty": 4
+        },
+        "image": {
+            "full": "Aatrox.png",
+            "sprite": "champion0.png",
+            "group": "champion",
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        },
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "partype": "Blood Well",
+        "stats": {
+            "hp": 580,
+            "hpperlevel": 90,
+            "mp": 0,
+            "mpperlevel": 0,
+            "movespeed": 345,
+            "armor": 38,
+            "armorperlevel": 3.25,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 175,
+            "hpregen": 3,
+            "hpregenperlevel": 1,
+            "mpregen": 0,
+            "mpregenperlevel": 0,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 60,
+            "attackdamageperlevel": 5,
+            "attackspeedperlevel": 2.5,
+            "attackspeed": 0.651
+        }
+    },
+    {
+        "version": "11.1.1",
+        "id": "Veigar",
+        "key": "45",
+        "name": "Veigar",
+        "title": "the Tiny Master of Evil",
+        "blurb": "An enthusiastic master of dark sorcery, Veigar has embraced powers that few mortals dare approach. As a free-spirited inhabitant of Bandle City, he longed to push beyond the limitations of yordle magic, and turned instead to arcane texts that had been...",
+        "info": {
+            "attack": 2,
+            "defense": 2,
+            "magic": 10,
+            "difficulty": 7
+        },
+        "image": {
+            "full": "Veigar.png",
+            "sprite": "champion4.png",
+            "group": "champion",
+            "x": 144,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        },
+        "tags": [
+            "Mage"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 505,
+            "hpperlevel": 94,
+            "mp": 490,
+            "mpperlevel": 26,
+            "movespeed": 340,
+            "armor": 23,
+            "armorperlevel": 3.75,
+            "spellblock": 32,
+            "spellblockperlevel": 0.5,
+            "attackrange": 550,
+            "hpregen": 6.5,
+            "hpregenperlevel": 0.6,
+            "mpregen": 8,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 52,
+            "attackdamageperlevel": 2.7,
+            "attackspeedperlevel": 2.24,
+            "attackspeed": 0.625
+        }
+    },
+    {
+        "version": "11.1.1",
+        "id": "Samira",
+        "key": "360",
+        "name": "Samira",
+        "title": "the Desert Rose",
+        "blurb": "Samira stares death in the eye with unyielding confidence, seeking thrill wherever she goes. After her Shuriman home was destroyed as a child, Samira found her true calling in Noxus, where she built a reputation as a stylish daredevil taking on...",
+        "info": {
+            "attack": 8,
+            "defense": 5,
+            "magic": 3,
+            "difficulty": 6
+        },
+        "image": {
+            "full": "Samira.png",
+            "sprite": "champion3.png",
+            "group": "champion",
+            "x": 48,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        },
+        "tags": [
+            "Marksman"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 530,
+            "hpperlevel": 88,
+            "mp": 348.88,
+            "mpperlevel": 38,
+            "movespeed": 335,
+            "armor": 26,
+            "armorperlevel": 3,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 500,
+            "hpregen": 3.25,
+            "hpregenperlevel": 0.55,
+            "mpregen": 8.18,
+            "mpregenperlevel": 0.7,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 57,
+            "attackdamageperlevel": 2.3,
+            "attackspeedperlevel": 3.3,
+            "attackspeed": 0.658
+        }
+    },
+    {
+        "version": "11.1.1",
+        "id": "KogMaw",
+        "key": "96",
+        "name": "Kog'Maw",
+        "title": "the Mouth of the Abyss",
+        "blurb": "Belched forth from a rotting Void incursion deep in the wastelands of Icathia, Kog'Maw is an inquisitive yet putrid creature with a caustic, gaping mouth. This particular Void-spawn needs to gnaw and drool on anything within reach to truly understand it...",
+        "info": {
+            "attack": 8,
+            "defense": 2,
+            "magic": 5,
+            "difficulty": 6
+        },
+        "image": {
+            "full": "KogMaw.png",
+            "sprite": "champion2.png",
+            "group": "champion",
+            "x": 0,
+            "y": 0,
+            "w": 48,
+            "h": 48
+        },
+        "tags": [
+            "Marksman",
+            "Mage"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 565,
+            "hpperlevel": 85,
+            "mp": 325,
+            "mpperlevel": 40,
+            "movespeed": 330,
+            "armor": 24,
+            "armorperlevel": 3.25,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 500,
+            "hpregen": 3.75,
+            "hpregenperlevel": 0.55,
+            "mpregen": 8.75,
+            "mpregenperlevel": 0.7,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 61,
+            "attackdamageperlevel": 3.11,
+            "attackspeedperlevel": 2.65,
+            "attackspeed": 0.665
+        }
+    },
+    {
+        "version": "11.1.1",
+        "id": "Nami",
+        "key": "267",
+        "name": "Nami",
+        "title": "the Tidecaller",
+        "blurb": "A headstrong young vastaya of the seas, Nami was the first of the Marai tribe to leave the waves and venture onto dry land, when their ancient accord with the Targonians was broken. With no other option, she took it upon herself to complete the sacred...",
+        "info": {
+            "attack": 4,
+            "defense": 3,
+            "magic": 7,
+            "difficulty": 5
+        },
+        "image": {
+            "full": "Nami.png",
+            "sprite": "champion2.png",
+            "group": "champion",
+            "x": 336,
+            "y": 48,
+            "w": 48,
+            "h": 48
+        },
+        "tags": [
+            "Support",
+            "Mage"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 475,
+            "hpperlevel": 74,
+            "mp": 365,
+            "mpperlevel": 43,
+            "movespeed": 335,
+            "armor": 29,
+            "armorperlevel": 4,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 550,
+            "hpregen": 5.5,
+            "hpregenperlevel": 0.55,
+            "mpregen": 11.5,
+            "mpregenperlevel": 0.4,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 51,
+            "attackdamageperlevel": 3.1,
+            "attackspeedperlevel": 2.61,
+            "attackspeed": 0.644
+        }
+    }
+]
